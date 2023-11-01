@@ -95,7 +95,7 @@ header .fa-bars{
     align-items: center;
     min-height: 100vh;
     background: url(images/burger.jpeg)no-repeat;
-    background-position:right;
+    background-position:center;
     background-size: cover;
 }
 .home .content{
